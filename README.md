@@ -1,4 +1,4 @@
-# ToDo App API's
+# ToDo List App
 
 This is a simple ToDo App RESTful APIs with media support.
 
