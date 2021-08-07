@@ -8,7 +8,7 @@ This application is build on Laravel Framework 8.12.
 
 Clone the repository-
 ```
-git clone https://github.com/shahzadtahir123/todo-list.git
+git clone https://github.com/shahzad-tahir/todo-list.git
 ```
 
 Then cd into the folder with this command-
